@@ -19,7 +19,7 @@ rating_5_stars
 
 The script is supposed to create them if they're missing, but I haven't tested that part. It might not work. I'd suggest setting them to ignore auto-tag.
 
-Of course, edit line 5 to point to the URL of your Stash instance. Uou should be able to add an API key to line 9, but I haven't tested that at all.
+Of course, edit line 5 to point to the URL of your Stash instance. You should be able to add an API key to line 9, but I haven't tested that at all.
 
 After running this script, just perform a scene search for Performer Tags include rating_5_stars (or whatever you'd like). If you change a rating for a performer and run the script again, it'll remove the old tag and add the correct one.
 

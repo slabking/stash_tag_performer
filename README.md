@@ -2,7 +2,7 @@
 
 This is a script to tag your Stash performers with their ratings. Full disclosure: I 100% vibe coded this. Use at your own risk.
 
-This runs just fine on my Mac running 26 Tahoe.
+This runs just fine on my Mac running 26 Tahoe and Stash v0.30.1.
 
 The core reason for this script is because I wanted to browse scenes by performer rating, and Stash doesn't currently support that. You can, however, filter scenes by performer tags, so I had GitHub Copilot write this for me. It took many, many iterations but it works great. I hope it helps someone else. This script works for both scenes and images.
 
